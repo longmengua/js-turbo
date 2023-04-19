@@ -1,7 +1,11 @@
+<script setup lang="ts">
+import UiLibDemo from '../components/UiLibDemo.vue'
+</script>
+
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
-  </div>
+  <main>
+    <UiLibDemo msg="demo" />
+  </main>
 </template>
 
 <style>
