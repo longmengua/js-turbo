@@ -1,14 +1,4 @@
-# Turborepo starter
-
-This is an official starter Turborepo.
-
-### Launch up app
-
-Run the following command:
-
-```sh
-npx create-turbo@latest
-```
+# Turborepo
 
 ### Remote Caching
 
