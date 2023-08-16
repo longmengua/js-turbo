@@ -8,7 +8,19 @@
 
 ### Introduction
 
-- Turborepo is a smart build system that addresses many pain points when we develop in a plain monorepo, it brings a lot of benefits and solutions to the challenges we face when developing in a monorepo.
+- Monorepo
+  - about
+    - is simply putting multiple projects together into a single repository
+  - pros
+    - Code Sharing
+    - Code visibility
+    - Integrating guidelines easily (coding style, linting, formatting)
+  - cons
+    - Broken master branch
+    - Longer build time
+- Turborepo
+  - about
+    - is a tool designed to help speed up Monorepo development for JavaScript and TypeScript codebases. It addresses 2 main problems with Monorepo, duplicate work, and task scheduling.
 
 ### Remote Caching
 
