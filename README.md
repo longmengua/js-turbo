@@ -1,4 +1,14 @@
-# Turborepo
+# Overview
+
+## About this repo
+
+
+
+## Turborepo
+
+### Introduction
+
+- Turborepo is a smart build system that addresses many pain points when we develop in a plain monorepo, it brings a lot of benefits and solutions to the challenges we face when developing in a monorepo.
 
 ### Remote Caching
 
